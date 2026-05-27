@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Krishna!+%F0%9F%91%8B;Data+Analyst+%7C+3+Years+Experience;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Krishna!+%F0%9F%91%8B;Data+Analyst+%7C+6+Years+Experience;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=SaiKrishna-Sajjanam&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" />
 
@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Sai Krishna Sajjanam**, a passionate **Data Analyst** with **3 years of experience** transforming raw data into actionable insights. I specialize in building dashboards, performing statistical analysis, and helping organizations make data-driven decisions.
+I'm **Sai Krishna Sajjanam**, a passionate **Data Analyst** with **6 years of experience** transforming raw data into actionable insights. I specialize in building dashboards, performing statistical analysis, and helping organizations make data-driven decisions.
 
 - 📊 Currently working on advanced analytics & BI dashboards
 - 🤖 Passionate about Machine Learning & predictive modeling
@@ -39,15 +39,6 @@ I'm **Sai Krishna Sajjanam**, a passionate **Data Analyst** with **3 years of ex
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Krishna_Sajjanam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna-sajjanam-analyst)
-
-</div>
 
 ---
 
