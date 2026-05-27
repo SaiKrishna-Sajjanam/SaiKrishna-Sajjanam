@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Sai Krishna Sajjanam**, a passionate **Data Analyst** with **3 years of experience** transforming raw data into actionable insights. I specialize in building dashboards, performing statistical analysis, and helping organizations make data-driven decisions.
+I'm **Sai Krishna Sajjanam**, a passionate **Data Analyst** with **6 years of experience** transforming raw data into actionable insights. I specialize in building dashboards, performing statistical analysis, and helping organizations make data-driven decisions.
 
 - 📊 Currently working on advanced analytics & BI dashboards
 - 🤖 Passionate about Machine Learning & predictive modeling
