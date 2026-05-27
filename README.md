@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Krishna!+%F0%9F%91%8B;Data+Analyst+%7C+3+Years+Experience;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Krishna!+%F0%9F%91%8B;Data+Analyst+%7C+6+Years+Experience;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=SaiKrishna-Sajjanam&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" />
 
